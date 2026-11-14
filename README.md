@@ -13,6 +13,19 @@ I enjoy building gameplay mechanics, player interactions, and vehicle-based expe
 - **Development:** 3D gameplay mechanics, player movement, game physics, vehicle controllers, and UI
 - **Additional Experience:** NPC dialogue systems and basic AI behavior
 
+## Services
+
+I can help with small-scale Unity 3D development tasks, including:
+
+- Implementing basic 3D gameplay mechanics.
+- Player movement and controller setup.
+- Vehicle controller and driving mechanics.
+- Basic UI and player interaction systems.
+- NPC dialogue system implementation.
+- Updating, debugging, and improving existing Unity projects.
+
+*I take on tasks that match my current skills and project experience.*
+
 ## Projects
 
 - **3D Car Racing Game**
