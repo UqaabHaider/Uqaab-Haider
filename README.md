@@ -15,16 +15,16 @@ I enjoy building gameplay mechanics, player interactions, and vehicle-based expe
 
 ## Services
 
-I can help with small-scale Unity 3D development tasks, including:
+I provide Unity 3D development support for prototypes, gameplay features, and improvements to existing projects.
 
-- Implementing basic 3D gameplay mechanics.
-- Player movement and controller setup.
-- Vehicle controller and driving mechanics.
-- Basic UI and player interaction systems.
-- NPC dialogue system implementation.
-- Updating, debugging, and improving existing Unity projects.
+- **3D Gameplay Mechanics:** Implement core gameplay features and interactive mechanics in Unity using C#.
+- **Player Movement & Controls:** Set up player controllers, movement behavior, and input-based interactions.
+- **Vehicle & Driving Systems:** Develop and refine vehicle movement, driving controls, and basic car-handling mechanics.
+- **UI & Player Interaction:** Build in-game UI elements and interaction flows that connect the player with game features.
+- **NPC Dialogue Systems:** Implement basic dialogue interactions between the player and non-playable characters.
+- **Bug Fixing & Project Updates:** Troubleshoot Unity project issues, fix gameplay-related bugs, and make requested improvements to existing projects.
 
-*I take on tasks that match my current skills and project experience.*
+I focus on clearly scoped tasks that align with my current Unity and C# experience.
 
 ## Projects
 
